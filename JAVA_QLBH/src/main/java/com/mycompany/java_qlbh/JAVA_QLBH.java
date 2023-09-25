@@ -17,6 +17,7 @@ import java.sql.Statement;
 public class JAVA_QLBH {
 
     public static void main(String[] args) {
-        Helper helper = new Helper();
+//        Helper helper = new Helper();
+        System.out.print("Thanh");
     }
 }
